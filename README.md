@@ -23,7 +23,7 @@ I like building things, solving hard problems and understanding how software wor
 
 ### Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=cpp,go,python,postgres,docker,linux,git,github&theme=dark" />
 </p>
 

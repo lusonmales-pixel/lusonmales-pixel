@@ -35,13 +35,6 @@ I like building things, solving hard problems and understanding how software wor
 
 - ***OdemaVPN.*** Lightweight Go backend for automating VPN subscriptions through Telegram, integrating 3X-UI/Xray, VLESS, Lava Payments and PostgreSQL. Handles user authentication, VPN provisioning, payments, subscription renewals, referrals and automatic expiration.
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lusonmales-pixel&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusonmales-pixel&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
 ### Approach
 
 > «Learn the fundamentals.  

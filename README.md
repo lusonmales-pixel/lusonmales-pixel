@@ -1,4 +1,4 @@
-#👋 Hey! I am **Odema**
+### Hey! I am **Odema**
 
 *Software engineering student.*
 
